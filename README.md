@@ -2,7 +2,7 @@
 
 ElfDoor-gcc is an LD_PRELOAD that hijacks gcc to inject malicious code into binaries during linking, without touching the source code.
 
-Detailed Article: https://github.com/MatheuZSecurity/ElfDoor-gcc
+Detailed Article: https://matheuzsecurity.github.io/hacking/gcc/
 
 <p align="center">
   <img src="gcc.png" style="width: 65%;">
