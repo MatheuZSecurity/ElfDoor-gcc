@@ -16,3 +16,6 @@ cd ElfDoor-gcc
 chmod +x install.sh
 sudo ./install.sh
 ```
+
+Rootkit Researchers
+- https://discord.gg/66N5ZQppU7
